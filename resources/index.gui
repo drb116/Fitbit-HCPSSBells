@@ -1,0 +1,13 @@
+<svg class="background">
+
+  <text x="280" y="80" fill="#74777c" font-size="35" font-family="Tungsten-Medium">Steps</text>
+  <text x="280" y="155" fill="#74777c" font-size="35" font-family="Tungsten-Medium">Active</text>
+  <text x="280" y="230" fill="#74777c" font-size="35" font-family="Tungsten-Medium">Floors</text>
+  <text id="stepLabel" x="335" y="45"/>
+  <text id="activeLabel" x="335" y="123"/>
+  <text id="hourlyLabel" x="335" y="200"/>
+  <text id="countDownLabel" />
+  <text id="periodLabel" />
+  <text id="timeLabel" />
+  
+</svg>

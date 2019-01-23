@@ -1,0 +1,56 @@
+.background {
+  viewport-fill: black;
+}
+
+#periodLabel {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 20;
+  y: 20%;
+  fill: white;
+}
+
+#countDownLabel {
+  font-size: 110;
+  font-family: Seville-Book-Condensed;
+  text-length: 32;
+  text-anchor: start;
+  x: 10;
+  y: 160;
+ }
+ 
+#timeLabel {
+  font-size: 45;
+  font-family: Tungsten-Medium;
+  text-anchor: center;
+  text-length: 40;
+  x: 35;
+  y: 215;
+  fill: #82859b;
+}
+
+#stepLabel {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  fill: #c4c7ce;
+}
+
+#activeLabel {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  fill: #c4c7ce;
+}
+
+#hourlyLabel {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  fill: #c4c7ce;
+}
